@@ -1,0 +1,13 @@
+{
+  "VNetAddrSpace2ndOctet": "0",
+  "RGName": "HybridADFS_CanadaCentralRG",
+  "DeployRegion": "Canada Central",
+  "VMName": "Contoso",
+  "AssetLocation": "https://raw.githubusercontent.com/trentmillar/active-directory-lab-hybrid-adfs/master/lab-hybrid-adfs/",
+  "UserName": "manager",
+  "SecurePassword": "P@ssw0rd1",
+  "DefaultUserPassword": "P@ssw0rd",
+  "ADDomainName": "contoso.com",
+  "ClientImageBaseResource": "/subscriptions/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/resourceGroups/<RG holding your images>/providers/Microsoft.Compute/images/"
+
+}
